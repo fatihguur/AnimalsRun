@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4ec227-dc72-4f74-9ed6-4568529bba4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Animal-Run/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Animal-Run/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Animal-Run/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Animal-Run/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Animal-Run/.idea/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Animal-Run/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Animal-Run/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterChange2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterChange2.cs" afterDir="false" />
-    </list>
+    <list default="true" id="9f4ec227-dc72-4f74-9ed6-4568529bba4d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,17 +19,18 @@
       <option value="$PROJECT_DIR$/Assets/Collectibles.cs" />
       <option value="$PROJECT_DIR$/Assets/cameraFollow.cs" />
       <option value="$PROJECT_DIR$/Assets/CharacterChange2.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleMovement.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleArray.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Collectibles.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/OnHitGameOver.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/MovementArray.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterChange.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/DebugManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/RacoonCheck.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/DeerCheck.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterChange2.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/cameraFollow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterChange.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DebugManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementArray.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleArray.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/OnHitGameOver.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1yH8x25Fk9PoWWvnV5e5I7u2G9h" />
@@ -58,7 +51,6 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -68,7 +60,6 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -95,6 +86,7 @@
       <workItem from="1632165062009" duration="383000" />
       <workItem from="1632209623677" duration="725000" />
       <workItem from="1632245419827" duration="370000" />
+      <workItem from="1632251227482" duration="451000" />
     </task>
     <servers />
   </component>

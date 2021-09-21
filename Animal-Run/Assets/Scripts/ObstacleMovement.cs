@@ -43,10 +43,4 @@ public class ObstacleMovement : MonoBehaviour
     {
         transform.DOLocalMove(startPos, speed).SetEase(Ease.Linear).OnComplete(ToEndPos);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

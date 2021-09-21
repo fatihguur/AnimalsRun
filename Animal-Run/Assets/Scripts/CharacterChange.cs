@@ -26,15 +26,13 @@ public class CharacterChange : MonoBehaviour
     
     void Update()
     {
-        
         TigerFollow = Tiger.transform;
         DeerFollow = Deer.transform;
-
     }
 
     void OnTriggerEnter(Collider other) 
     {
-        Debug.Log("kssdf");
+        
 
         
         if(other.transform.tag == "TriggerTiger") 
@@ -44,7 +42,7 @@ public class CharacterChange : MonoBehaviour
             Destroy(idle_tiger);
             Tiger.GetComponent<Movement>().StartGame();
             Tiger.SetActive(true);
-            Debug.Log("ksasddf");
+            
 
             vcam.LookAt = TigerFollow;
             vcam.Follow = TigerFollow;
@@ -52,7 +50,7 @@ public class CharacterChange : MonoBehaviour
         
         if(other.transform.tag == "TriggerDeer") 
         {
-            Debug.Log("ksdf");
+            
             particle1.Play();
             objectToActive.SetActive(false);
             Destroy(idle_deer);

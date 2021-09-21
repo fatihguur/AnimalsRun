@@ -47,10 +47,4 @@ public class ObstacleArray : MonoBehaviour
             obstacleMov[i].rotateSpeed -= 0.1f;  
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

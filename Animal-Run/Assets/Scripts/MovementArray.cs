@@ -52,11 +52,4 @@ public class MovementArray : MonoBehaviour
             character.playerSidewaySpeed -= 1f;
         }
     }
-    
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

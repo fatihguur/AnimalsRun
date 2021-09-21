@@ -43,16 +43,6 @@ public class DebugManager : MonoBehaviour
 
     }
 
-     // public void CameraFovIncrease()
-     // {
-     //   cam.m_Lens.FieldOfView += 2.5f;
-     // }
-    //
-    // public void CameraFovDecrease()
-    // {
-    //     cam.m_Lens.FieldOfView -= 2.5f;
-    // }
-    
     public void CameraFollowOffsetUpdate()
     {
         transposer.m_FollowOffset = followOffset;

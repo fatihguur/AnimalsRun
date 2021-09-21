@@ -9,11 +9,11 @@ public class Movement : MonoBehaviour
     Rigidbody Animal_Rigidbody;
     public bool isPlaying;
     private Animator anim;
+    
     public float playerRunSpeed = 1;
     public float playerSidewaySpeed = 1;
+    
     private DebugManager debugger;
-
-    //public float movementSpeed = 500f;
     
     void Start()
     {
@@ -23,7 +23,7 @@ public class Movement : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         GetInput();
@@ -41,11 +41,8 @@ public class Movement : MonoBehaviour
                 touchPosX = Input.GetAxis("Mouse X") * playerSidewaySpeed * Time.fixedDeltaTime;
                 Debug.Log(Input.GetAxis("Mouse X"));
                 transform.position += new Vector3(touchPosX, 0, 0);
-
             }
-            
         }
-        
     }
 
     void OnTriggerEnter(Collider other)
@@ -55,7 +52,6 @@ public class Movement : MonoBehaviour
         {
             anim.SetBool("isInAir", true);
             Debug.Log("Jumping");
-
         }
         
         if (other.transform.tag == "Finish")

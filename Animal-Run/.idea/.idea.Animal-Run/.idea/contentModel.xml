@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\FATIH\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\FATIH\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Animal-Run.-1960135131.00" t="ExcludeRecursive" />
+    <e p="D:\FATIH\BELGELERIM\GitHub\AnimalsRun\Animal-Run" t="IncludeRecursive">
+      <e p="Animal-Run.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_MO Assets" t="Include">
+          <e p="Cartoon FX (legacy)" t="Include">
+            <e p="CartoonFX Readme.txt" t="Include" />
+            <e p="Demo" t="Include">
+              <e p="Assets" t="Include">
+                <e p="CFX_AutoStopLoopedEffect.cs" t="Include" />
+                <e p="CFX_Demo.cs" t="Include" />
+                <e p="CFX_Demo_New.cs" t="Include" />
+                <e p="CFX_Demo_RandomDir.cs" t="Include" />
+                <e p="CFX_Demo_RandomDirectionTranslate.cs" t="Include" />
+                <e p="CFX_Demo_RotateCamera.cs" t="Include" />
+                <e p="CFX_Demo_Translate.cs" t="Include" />
+                <e p="CFX_Demo_WaterWiggle.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="CFX_InspectorHelpEditor.cs" t="Include" />
+              <e p="CFX_SpawnSystemEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CFX_AutoDestructShuriken.cs" t="Include" />
+              <e p="CFX_AutodestructWhenNoChildren.cs" t="Include" />
+              <e p="CFX_AutoRotate.cs" t="Include" />
+              <e p="CFX_InspectorHelp.cs" t="Include" />
+              <e p="CFX_LightIntensityFade.cs" t="Include" />
+              <e p="CFX_ShurikenThreadFix.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CFXM_MobileParticleAB_Alpha8.shader" t="Include" />
+              <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+            </e>
+            <e p="Spawn System" t="Include">
+              <e p="CFX_SpawnSystem.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Cartoon FX Easy Editor" t="Include">
+            <e p="CartoonFX Easy Editor Readme.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CFXEasyEditor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Cartoon FX Remaster" t="Include">
+            <e p="CFXR Assets" t="Include">
+              <e p="Editor" t="Include">
+                <e p="CFXR Editor.asmdef" t="Include" />
+                <e p="CFXR_ExpressionParser.cs" t="Include" />
+                <e p="CFXR_MaterialInspector.cs" t="Include" />
+                <e p="CFXR_Styles.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="CFXR Runtime.asmdef" t="Include" />
+                <e p="CFXR_Effect.CameraShake.cs" t="Include" />
+                <e p="CFXR_Effect.cs" t="Include" />
+                <e p="CFXR_ParticleText.cs" t="Include" />
+                <e p="CFXR_ParticleText_Runtime.cs" t="Include" />
+                <e p="CFXR_ParticleTextFontAsset.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="CFXR Particle Glow.shader" t="Include" />
+                <e p="CFXR Particle Procedural Ring.shader" t="Include" />
+                <e p="CFXR Particle Ubershader.shader" t="Include" />
+                <e p="CFXR.cginc" t="Include" />
+                <e p="CFXR_SETTINGS.cginc" t="Include" />
+                <e p="CFXR_URP.cginc" t="Include" />
+              </e>
+            </e>
+            <e p="CFXR Prefabs" t="Include">
+              <e p="Texts" t="Include">
+                <e p="_Make your own text effect.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Demo Assets" t="Include">
+              <e p="CFXR Demo.asmdef" t="Include" />
+              <e p="CFXR_Demo.cs" t="Include" />
+              <e p="CFXR_Demo_RandomText.cs" t="Include" />
+              <e p="CFXR_Demo_Rotate.cs" t="Include" />
+              <e p="Kino Bloom" t="Include">
+                <e p="Bloom.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="BloomEditor.cs" t="Include" />
+                  <e p="BloomGraphDrawer.cs" t="Include" />
+                  <e p="CFXR Demo Editor.asmdef" t="Include" />
+                </e>
+                <e p="Shader" t="Include">
+                  <e p="Bloom.cginc" t="Include" />
+                  <e p="Bloom.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Readme Cartoon FX Remaster.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Low Poly Fruits" t="Include">
+          <e p="resources" t="Include">
+            <e p="fruits_tester.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Malbers Animations" t="Include">
+          <e p="Common" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Menu" t="Include">
+                  <e p="AnimUnhideTool.cs" t="Include" />
+                  <e p="MalbersMenu.cs" t="Include" />
+                </e>
+                <e p="Readme" t="Include">
+                  <e p="ReadmeEditor.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Events" t="Include">
+                <e p="UnityEventRaiser.cs" t="Include" />
+              </e>
+              <e p="Readme" t="Include">
+                <e p="Readme.cs" t="Include" />
+              </e>
+              <e p="Utilities" t="Include">
+                <e p="UnityUtils.cs" t="Include" />
+                <e p="UseTransform.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="AnisotropicCircular.shader" t="Include" />
+              <e p="AnisotropicWard.shader" t="Include" />
+              <e p="Color3x3.shader" t="Include" />
+              <e p="Color4x2 Emission.shader" t="Include" />
+              <e p="Color4x2.shader" t="Include" />
+              <e p="Color4x3.shader" t="Include" />
+              <e p="Color4x4.shader" t="Include" />
+              <e p="DragonEggs_Shader.shader" t="Include" />
+              <e p="Golem Shader.shader" t="Include" />
+              <e p="Mask4Realistic.shader" t="Include" />
+              <e p="Mask4Toon.shader" t="Include" />
+              <e p="Mask8Realistic.shader" t="Include" />
+              <e p="Mask8Toon.shader" t="Include" />
+              <e p="MWater2.shader" t="Include" />
+              <e p="Wind Shader.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="cameraFollow.cs" t="Include" />
+          <e p="CharacterChange.cs" t="Include" />
+          <e p="CharacterChange2.cs" t="Include" />
+          <e p="Collectibles.cs" t="Include" />
+          <e p="DebugManager.cs" t="Include" />
+          <e p="DeerCheck.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="MovementArray.cs" t="Include" />
+          <e p="ObstacleArray.cs" t="Include" />
+          <e p="ObstacleMovement.cs" t="Include" />
+          <e p="OnHitGameOver.cs" t="Include" />
+          <e p="RacoonCheck.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CFXRDemo.csproj" t="IncludeRecursive" />
+      <e p="CFXRDemoEditor.csproj" t="IncludeRecursive" />
+      <e p="CFXREditor.csproj" t="IncludeRecursive" />
+      <e p="CFXRRuntime.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
