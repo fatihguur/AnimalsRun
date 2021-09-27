@@ -12,7 +12,7 @@ public class Movement : MonoBehaviour
     
     public float playerRunSpeed = 1;
     public float playerSidewaySpeed = 1;
-    
+    public float xDeadLeft, xDeadRight;
     private DebugManager debugger;
     
     void Start()
@@ -41,6 +41,10 @@ public class Movement : MonoBehaviour
                 touchPosX = Input.GetAxis("Mouse X") * playerSidewaySpeed * Time.fixedDeltaTime;
                 Debug.Log(Input.GetAxis("Mouse X"));
                 transform.position += new Vector3(touchPosX, 0, 0);
+                    //float clamper = transform.position.z;
+                
+                float clamper = Mathf.Clamp(transform.position.x, xDeadLeft, xDeadRight);
+                transform.position = new Vector3(clamper, transform.position.y, transform.position.z);
             }
         }
     }

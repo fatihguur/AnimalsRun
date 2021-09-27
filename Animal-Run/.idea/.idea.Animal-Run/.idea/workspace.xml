@@ -25,12 +25,12 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterChange2.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/cameraFollow.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterChange.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/DebugManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementArray.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/OnHitGameOver.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DebugManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleArray.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleMovement.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/OnHitGameOver.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1yH8x25Fk9PoWWvnV5e5I7u2G9h" />
@@ -87,6 +87,7 @@
       <workItem from="1632209623677" duration="725000" />
       <workItem from="1632245419827" duration="370000" />
       <workItem from="1632251227482" duration="451000" />
+      <workItem from="1632756269659" duration="4436000" />
     </task>
     <servers />
   </component>

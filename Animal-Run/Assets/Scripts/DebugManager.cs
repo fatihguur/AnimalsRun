@@ -15,6 +15,7 @@ public class DebugManager : MonoBehaviour
     
     public GameObject player;
     public GameObject uiPanel,startPanel,ingamePanel,gameOverPanel,winPanel;
+    public GameObject deerMoving;
     public MovementArray moveArray;
     public ObstacleArray obstacleArray;
     private Vector3 followOffset;
@@ -155,6 +156,8 @@ public class DebugManager : MonoBehaviour
     {
         ingamePanel.SetActive(false);
         winPanel.SetActive(true);
+        deerMoving.GetComponent<Movement>().enabled = false;
+        StartCoroutine(DeerAnimStop());
     }
 
     public void StartUI()
@@ -166,5 +169,11 @@ public class DebugManager : MonoBehaviour
     public void NextLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex,LoadSceneMode.Single) ;        
+    }
+
+    IEnumerator DeerAnimStop()
+    {
+        yield return new WaitForSeconds(1);
+        deerMoving.GetComponent<Animator>().enabled = false;
     }
 }

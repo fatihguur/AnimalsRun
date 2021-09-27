@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: cfxr star blurred add
   m_Shader: {fileID: 4800000, guid: e198026df304af84a85675be636192ea, type: 3}
-  m_ShaderKeywords: _FADING_ON _CFXR_HDR_BOOST _CFXR_SINGLE_CHANNEL _CFXR_ADDITIVE
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _CFXR_HDR_BOOST _CFXR_SINGLE_CHANNEL _FADING_ON
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -53,7 +53,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BacklightTransmittance: 1
-    - _BlendingType: 3
+    - _BlendingType: 1
     - _BumpScale: 1
     - _CFXR_DITHERED_SHADOWS: 0
     - _CFXR_OVERLAYBLEND: 0
@@ -63,7 +63,7 @@ Material:
     - _DirectLightingRamp: 1
     - _DissolveSmooth: 0.1
     - _Distort: 0.1
-    - _DstBlend: 1
+    - _DstBlend: 6
     - _EdgeFadePow: 1
     - _FadeAlongU: 0
     - _HdrBoost: 1
@@ -79,7 +79,7 @@ Material:
     - _SingleChannel: 1
     - _SoftParticlesFadeDistanceFar: 2
     - _SoftParticlesFadeDistanceNear: 0
-    - _SrcBlend: 5
+    - _SrcBlend: 9
     - _UVDistortionAdd: 0
     - _UseAlphaClip: 0
     - _UseBackLighting: 0
@@ -102,3 +102,4 @@ Material:
     - _DistortScrolling: {r: 0, g: 0, b: 1, a: 1}
     - _OverlayTex_Scroll: {r: 0.1, g: 0.1, b: 1, a: 1}
     - _ShadowColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
